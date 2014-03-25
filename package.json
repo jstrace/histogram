@@ -1,0 +1,26 @@
+{
+  "name": "histogram",
+  "version": "1.0.0",
+  "repository": "segmentio/histogram",
+  "description": "Ascii histogram",
+  "keywords": [
+    "ascii",
+    "chart",
+    "bar",
+    "stats",
+    "data",
+    "cli",
+    "terminal",
+    "histogram"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "batch": "^0.5.0",
+    "bytes": "~0.2.1",
+    "clear": "0.0.1",
+    "mocha": "*",
+    "should": "*",
+    "superagent": "^0.17.0"
+  },
+  "license": "MIT"
+}
