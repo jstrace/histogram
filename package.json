@@ -1,6 +1,6 @@
 {
   "name": "histogram",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "segmentio/histogram",
   "description": "Ascii histogram",
   "keywords": [
