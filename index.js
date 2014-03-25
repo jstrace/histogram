@@ -5,6 +5,15 @@
 
 var chart = require('chart');
 
+/**
+ * Return a histogram with `data`.
+ *
+ * @param {Array} data
+ * @param {Object} [opts]
+ * @return {String}
+ * @api public
+ */
+
 module.exports = function(data, opts){
   var opts = opts || {};
   var bins = opts.bins || 50;
